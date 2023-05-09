@@ -78,7 +78,7 @@ class DatosMeteorologicos:
         velocidad_viento_prom = velocidad_viento_total / total
 
 
-        return temperatura_prom,humedad_prom,presion_prom,velocidad_viento_prom, viento
+        return temperatura_prom,humedad_prom,presion_prom,velocidad_viento_prom
 
 
 
